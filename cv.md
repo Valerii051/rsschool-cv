@@ -21,5 +21,11 @@ I recently made the decision to become a front-end developer. My main goal is to
 * CSS
 * Git
 
+## Code Example
 
+```
+function multiply(a, b) {
+  return a * b
+}
+```
 
