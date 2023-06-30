@@ -29,3 +29,14 @@ function multiply(a, b) {
 }
 ```
 
+## Expirience
+
+## Education
+
+**Course:**
+
+* [Hexlet](https://guides.hexlet.io/ru/)
+
+## English
+
+**A1** (I have never practiced English, but with the help of an interpreter and English courses, I am sure I will improve my level)
