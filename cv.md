@@ -1,6 +1,6 @@
 # Valerii Belitchenko
 
-![My photo](\Users\User\Pictures)
+![My photo](C:\Users\User\Pictures)
 
 ## Contacts
 
