@@ -1,7 +1,5 @@
 # Valerii Belitchenko
 
-![My photo](my_photo.jpg)
-
 ## Contacts
 
 **Location:** Russia, Novosibirsk
